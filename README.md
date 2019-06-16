@@ -4,4 +4,4 @@ This is the source for a trio of programs I wrote in MASM for assignments; I've 
 
 The main highlights, (from my perspective) are probably the ParseGeometry routine in program four, which directly calls the Windows console API, and the heapsort in program five.
 
-The course number has been redacted from all the files, to avoid people googling them.
+The course number has been redacted from all the files, in case the same assignment prompts are used in the future.  (This is also why the default branch is main rather than master; google only indexes master branches on github.)
