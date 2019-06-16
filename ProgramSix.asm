@@ -56,7 +56,7 @@ Inputs		SDWORD	10	DUP(?)
 SubTotal		SDWORD	0
 
 
-Intro		BYTE		"Michael Andrews CS 271 Assignment 6A",0dh,0ah
+Intro		BYTE		"Michael Andrews XXXXX Assignment 6A",0dh,0ah
 			BYTE		"This program takes ten signed integer inputs from the"
 			BYTE		" user, then tells the user their total and average."
 			BYTE		0dh,0ah
